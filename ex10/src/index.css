@@ -1,0 +1,56 @@
+body{text-align: center;
+}
+header{
+    width: fit-content;
+    
+}
+ul{
+    list-style: none;
+}
+#nav_bar{
+    float: right;
+}
+#nav_bar li{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-origin: padding-box;
+    
+}
+#sign_in{
+    background-color: blue;
+    border-radius: 1px;
+   
+}
+#google-image{
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding-bottom: 50px;
+
+}
+.form{
+    text-align: center;
+    padding: 20px;
+
+}
+#form-search{
+    width: 35%;
+    border-radius: 25px;
+    
+}
+
+footer{
+    display: inline;
+    text-decoration-color: white;
+    padding-bottom: 70px;
+
+}
+.footer-right{
+    float : right;
+    display: inline;
+    
+}
+.footer-left{
+    float: left;
+}
